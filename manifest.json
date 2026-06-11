@@ -1,7 +1,7 @@
 {
-  "appVersion": "1.4.2",
+  "appVersion": "1.4.3",
   "downloadUrl": "https://github.com/Ceccaroni/wm26-tipp-updates/releases/latest/download/WM26-Tipp-arm64.dmg",
-  "notes": "Punktesystem in der Rangliste erklärt",
-  "dataVersion": 5,
+  "notes": "Bonuspunkte verständlich erklärt (mit Spanien-Beispiel)",
+  "dataVersion": 6,
   "dataUrl": "https://raw.githubusercontent.com/Ceccaroni/wm26-tipp-updates/main/data-release.json"
 }
