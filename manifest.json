@@ -1,7 +1,7 @@
 {
-  "appVersion": "1.4.4",
+  "appVersion": "1.4.5",
   "downloadUrl": "https://github.com/Ceccaroni/wm26-tipp-updates/releases/latest/download/WM26-Tipp-arm64.dmg",
-  "notes": "KO-Aufruf: erinnert alle ans Tippen der Kategorie ab 1/16, sobald die Paarungen feststehen",
-  "dataVersion": 7,
+  "notes": "Rangliste: beide Wertungen klar betitelt und erklärt",
+  "dataVersion": 8,
   "dataUrl": "https://raw.githubusercontent.com/Ceccaroni/wm26-tipp-updates/main/data-release.json"
 }
