@@ -1,7 +1,7 @@
 {
-  "appVersion": "1.4.1",
+  "appVersion": "1.4.2",
   "downloadUrl": "https://github.com/Ceccaroni/wm26-tipp-updates/releases/latest/download/WM26-Tipp-arm64.dmg",
-  "notes": "50 zusätzliche Spielerfotos · gedrehte Karten vergrößert · nur noch eine Karte offen",
-  "dataVersion": 4,
+  "notes": "Punktesystem in der Rangliste erklärt",
+  "dataVersion": 5,
   "dataUrl": "https://raw.githubusercontent.com/Ceccaroni/wm26-tipp-updates/main/data-release.json"
 }
