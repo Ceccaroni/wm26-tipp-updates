@@ -1,7 +1,7 @@
 {
-  "appVersion": "1.4.5",
+  "appVersion": "1.4.6",
   "downloadUrl": "https://github.com/Ceccaroni/wm26-tipp-updates/releases/latest/download/WM26-Tipp-arm64.dmg",
-  "notes": "Rangliste: beide Wertungen klar betitelt und erklärt",
-  "dataVersion": 8,
+  "notes": "Rangliste aufpoliert: Die Formkurve in der Aufschlüsselung nutzt jetzt die volle Breite, und die Zeile der Führenden glänzt beim Hovern in Gold.",
+  "dataVersion": 9,
   "dataUrl": "https://raw.githubusercontent.com/Ceccaroni/wm26-tipp-updates/main/data-release.json"
 }
