@@ -1,7 +1,7 @@
 {
-  "appVersion": "1.5.2",
+  "appVersion": "1.6.0",
   "downloadUrl": "https://github.com/Ceccaroni/wm26-tipp-updates/releases/latest/download/WM26-Tipp-arm64.dmg",
-  "notes": "«Heute» zeigt nur noch, was ansteht: beendete Spiele verschwinden aus der Liste — die Ergebnisse stehen wie immer in der Live-Rubrik (Verweis im Tageskopf).",
-  "dataVersion": 13,
+  "notes": "Neu: Turnier-Chronik 📖 — das WM-Tagebuch klebt sich von selbst: pro Turniertag eine Albumseite mit allen Spielen, Torschützen (Klick öffnet die Panini-Karte), Tagespunkten mit Tagessieger-Krönchen und dem Stand der Runde. Das ganze Tagebuch lässt sich als PDF sichern — das Andenken nach dem Finale.",
+  "dataVersion": 14,
   "dataUrl": "https://raw.githubusercontent.com/Ceccaroni/wm26-tipp-updates/main/data-release.json"
 }
