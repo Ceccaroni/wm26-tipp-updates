@@ -1,7 +1,7 @@
 {
-  "appVersion": "1.5.0",
+  "appVersion": "1.5.1",
   "downloadUrl": "https://github.com/Ceccaroni/wm26-tipp-updates/releases/latest/download/WM26-Tipp-arm64.dmg",
-  "notes": "Das Sofa-Update: Live-Spiele zeigen Torschützen und Platzverweise — Klick auf den Schützen öffnet seine Panini-Karte. Live-Tabellen und Baum rechnen laufende Spiele auf Wunsch mit (Stand jetzt). Tor-Alarm für Parallelspiele (Schalter im Live-HUD, Achtung Spoiler). Neue Rubrik Erfolge: dein Sticker-Heft mit 11 Auszeichnungen. Update-Button schließt die App jetzt fürs Installieren gleich selbst. Anstoßzeiten Spiel 29/31 korrigiert.",
-  "dataVersion": 11,
+  "notes": "Wappen-Update: Alle 48 Teams tragen jetzt ihr Verbandswappen — als eingeklebtes Panini-Bild auf der Team-Seite. Dazu das WM-26-Emblem auf dem Heute-Screen und butterweiche Karten-Flips (kein Ruckeln mehr beim ersten Umdrehen).",
+  "dataVersion": 12,
   "dataUrl": "https://raw.githubusercontent.com/Ceccaroni/wm26-tipp-updates/main/data-release.json"
 }
