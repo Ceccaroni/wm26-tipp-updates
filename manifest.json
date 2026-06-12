@@ -1,7 +1,7 @@
 {
-  "appVersion": "1.5.1",
+  "appVersion": "1.5.2",
   "downloadUrl": "https://github.com/Ceccaroni/wm26-tipp-updates/releases/latest/download/WM26-Tipp-arm64.dmg",
-  "notes": "Wappen-Update: Alle 48 Teams tragen jetzt ihr Verbandswappen — als eingeklebtes Panini-Bild auf der Team-Seite. Dazu das WM-26-Emblem auf dem Heute-Screen und butterweiche Karten-Flips (kein Ruckeln mehr beim ersten Umdrehen).",
-  "dataVersion": 12,
+  "notes": "«Heute» zeigt nur noch, was ansteht: beendete Spiele verschwinden aus der Liste — die Ergebnisse stehen wie immer in der Live-Rubrik (Verweis im Tageskopf).",
+  "dataVersion": 13,
   "dataUrl": "https://raw.githubusercontent.com/Ceccaroni/wm26-tipp-updates/main/data-release.json"
 }
