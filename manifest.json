@@ -1,7 +1,7 @@
 {
-  "appVersion": "1.4.6",
+  "appVersion": "1.4.7",
   "downloadUrl": "https://github.com/Ceccaroni/wm26-tipp-updates/releases/latest/download/WM26-Tipp-arm64.dmg",
-  "notes": "Rangliste aufpoliert: Die Formkurve in der Aufschlüsselung nutzt jetzt die volle Breite, und die Zeile der Führenden glänzt beim Hovern in Gold.",
-  "dataVersion": 9,
+  "notes": "News-Feed aufgeräumt: Video-, Podcast- und Ticker-Schnipsel fliegen raus, dafür volle schriftliche Spielberichte zu jedem Spiel (stern, t-online) direkt in der App. Team-Zuordnung der Meldungen präziser, Blick-Feed repariert.",
+  "dataVersion": 10,
   "dataUrl": "https://raw.githubusercontent.com/Ceccaroni/wm26-tipp-updates/main/data-release.json"
 }
