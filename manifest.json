@@ -1,7 +1,7 @@
 {
-  "appVersion": "1.7.0",
+  "appVersion": "1.8.0",
   "downloadUrl": "https://github.com/Ceccaroni/wm26-tipp-updates/releases/latest/download/WM26-Tipp-arm64.dmg",
-  "notes": "Tipp-Vergleich in der Chronik, Torschützen der ersten Spiele nachgetragen, neuer Was-ist-neu-Hinweis nach Updates.",
-  "dataVersion": 15,
+  "notes": "Start-Intro mit Bill Shanklys Zitat, neue Torschützenliste (Goldener Schuh) und ein Volltreffer-Jubel mit Konfetti bei exaktem Tipp.",
+  "dataVersion": 16,
   "dataUrl": "https://raw.githubusercontent.com/Ceccaroni/wm26-tipp-updates/main/data-release.json"
 }
