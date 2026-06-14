@@ -1,7 +1,7 @@
 {
-  "appVersion": "1.8.4",
+  "appVersion": "1.8.5",
   "downloadUrl": "https://github.com/Ceccaroni/wm26-tipp-updates/releases/latest/download/WM26-Tipp-arm64.dmg",
-  "notes": "Flotterer Start mit kurzem Ladebildschirm, und Update-Hinweise kommen wieder zuverlässig an.",
-  "dataVersion": 21,
+  "notes": "Updates auf Knopfdruck: neuer Knopf „Nach Updates suchen\" und zuverlässigere Update-Hinweise.",
+  "dataVersion": 22,
   "dataUrl": "https://raw.githubusercontent.com/Ceccaroni/wm26-tipp-updates/main/data-release.json"
 }
