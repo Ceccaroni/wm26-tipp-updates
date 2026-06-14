@@ -1,7 +1,7 @@
 {
-  "appVersion": "1.8.3",
+  "appVersion": "1.8.4",
   "downloadUrl": "https://github.com/Ceccaroni/wm26-tipp-updates/releases/latest/download/WM26-Tipp-arm64.dmg",
-  "notes": "Live-Bereich geschärft: Rand schon zum Anpfiff, Hinweis bei Unterbrechung (Gewitter) und bei veralteten Daten; KO zählt das Endergebnis inkl. Verlängerung.",
-  "dataVersion": 20,
+  "notes": "Flotterer Start mit kurzem Ladebildschirm, und Update-Hinweise kommen wieder zuverlässig an.",
+  "dataVersion": 21,
   "dataUrl": "https://raw.githubusercontent.com/Ceccaroni/wm26-tipp-updates/main/data-release.json"
 }
