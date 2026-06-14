@@ -1,7 +1,6 @@
 {
-  "appVersion": "1.8.3",
+  "appVersion": "1.0.0",
   "downloadUrl": "https://github.com/Ceccaroni/wm26-tipp-updates/releases/latest/download/WM26-Tipp-arm64.dmg",
-  "notes": "Neuer Name: Aus WM26 Tipp wird TSCHUTTINI '26 — deine Tipps und alles andere bleiben erhalten.",
   "dataVersion": 19,
   "dataUrl": "https://raw.githubusercontent.com/Ceccaroni/wm26-tipp-updates/main/data-release.json"
 }
