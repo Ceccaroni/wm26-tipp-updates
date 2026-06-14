@@ -1,7 +1,7 @@
 {
-  "appVersion": "1.8.2",
+  "appVersion": "1.8.3",
   "downloadUrl": "https://github.com/Ceccaroni/wm26-tipp-updates/releases/latest/download/WM26-Tipp-arm64.dmg",
-  "notes": "Live-Spiele leuchten jetzt im WM-Look — ein schimmernder Rand zeigt sofort, welche Begegnung gerade läuft.",
-  "dataVersion": 18,
+  "notes": "Neuer Name: Aus WM26 Tipp wird TSCHUTTINI '26 — deine Tipps und alles andere bleiben erhalten.",
+  "dataVersion": 19,
   "dataUrl": "https://raw.githubusercontent.com/Ceccaroni/wm26-tipp-updates/main/data-release.json"
 }
