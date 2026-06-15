@@ -1,7 +1,7 @@
 {
-  "appVersion": "1.8.6",
+  "appVersion": "1.8.7",
   "downloadUrl": "https://github.com/Ceccaroni/wm26-tipp-updates/releases/latest/download/WM26-Tipp-arm64.dmg",
-  "notes": "Siegerehrung & Stadionjubel — neue Rubrik „Siegerehrung\": nach dem Finale Podest für den Tippkönig, Weltmeister-Banner und Konfetti; schon jetzt die aktuelle Führung samt Countdown bis zum Finale. Ausserdem ein echter Stadion-Torjubel beim exakten Tipp.",
-  "dataVersion": 23,
+  "notes": "Neu: Aufstellungen! Klappt ein Spiel auf und seht ab ~1 Std. vor Anpfiff beide Teams auf dem Feld — mit echter Formation. Auf einen Spieler tippen öffnet seine Panini-Karte.",
+  "dataVersion": 24,
   "dataUrl": "https://raw.githubusercontent.com/Ceccaroni/wm26-tipp-updates/main/data-release.json"
 }
