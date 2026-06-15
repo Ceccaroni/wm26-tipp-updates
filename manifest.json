@@ -1,7 +1,7 @@
 {
-  "appVersion": "1.8.5",
+  "appVersion": "1.8.6",
   "downloadUrl": "https://github.com/Ceccaroni/wm26-tipp-updates/releases/latest/download/WM26-Tipp-arm64.dmg",
-  "notes": "Updates auf Knopfdruck: neuer Knopf „Nach Updates suchen\" und zuverlässigere Update-Hinweise.",
-  "dataVersion": 22,
+  "notes": "Siegerehrung & Stadionjubel — neue Rubrik „Siegerehrung\": nach dem Finale Podest für den Tippkönig, Weltmeister-Banner und Konfetti; schon jetzt die aktuelle Führung samt Countdown bis zum Finale. Ausserdem ein echter Stadion-Torjubel beim exakten Tipp.",
+  "dataVersion": 23,
   "dataUrl": "https://raw.githubusercontent.com/Ceccaroni/wm26-tipp-updates/main/data-release.json"
 }
