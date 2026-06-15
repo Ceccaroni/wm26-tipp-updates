@@ -1,7 +1,7 @@
 {
-  "appVersion": "1.8.9",
+  "appVersion": "1.8.10",
   "downloadUrl": "https://github.com/Ceccaroni/wm26-tipp-updates/releases/latest/download/WM26-Tipp-arm64.dmg",
-  "notes": "Darstellungsfehler in den Live-Aufstellungen behoben — vor Anpfiff wurden kurz alle Spieler blass und mit Ein-/Auswechselpfeilen angezeigt; jetzt erscheinen die Pfeile nur bei echten Auswechslungen.",
-  "dataVersion": 26,
+  "notes": "Lange Spielernamen in den Aufstellungen werden jetzt vollständig angezeigt, statt mit … abgeschnitten zu werden.",
+  "dataVersion": 27,
   "dataUrl": "https://raw.githubusercontent.com/Ceccaroni/wm26-tipp-updates/main/data-release.json"
 }
