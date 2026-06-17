@@ -1,7 +1,7 @@
 {
   "appVersion": "1.8.11",
   "downloadUrl": "https://github.com/Ceccaroni/wm26-tipp-updates/releases/latest/download/WM26-Tipp-arm64.dmg",
-  "notes": "Neu: KO-Tipp-Hilfe – beim Tippen der KO-Runde blendet „Form & Quoten\" Gruppentabelle, Herkunft und Wettquote beider Teams ein. Außerdem: deutsche Menüleiste.",
-  "dataVersion": 28,
+  "notes": "Tunesien: Hervé Renard als Trainer (Kebaier war interim).",
+  "dataVersion": 29,
   "dataUrl": "https://raw.githubusercontent.com/Ceccaroni/wm26-tipp-updates/main/data-release.json"
 }
